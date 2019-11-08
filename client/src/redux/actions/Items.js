@@ -21,5 +21,5 @@ export const removeItem = ({ id }) => ({
 });
 
 export const clearState = () => ({
-	type: CLEAR
+	type: CLEAR_STATE
 });
